@@ -34,7 +34,7 @@ Here's a simple example of praiseme:
 library(praiseme)
 praise()
 
-#Or a friend!
+# Or a friend!
 praise("Holly!")
 
 ```
